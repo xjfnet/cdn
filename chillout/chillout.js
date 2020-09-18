@@ -79,7 +79,7 @@ exports.until = function until(callback, context) {
 }; // Minimum setTimeout interval for waitUntil
 
 
-var WAIT_UNTIL_INTERVAL = 100;
+var WAIT_UNTIL_INTERVAL = 13;
 /**
  * Executes a provided function until the `callback` returns `chillout.StopIteration`,
  *  or an error occurs.
