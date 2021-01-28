@@ -5,6 +5,7 @@
 // @match       http*://58.51.106.66:9301/*
 // @match       http*://172.18.254.16/*
 // @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/jquery.min.js
+// @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/jquery.extensions.js
 // @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/jquery.easyui.min.js
 // @require     https://gitee.com/QQ56188788/user-script/raw/master/assets/js.cookie.js
 // @require     https://gitee.com/QQ56188788/user-script/raw/master/assets/xlsx/xlsx.full.min.js
@@ -20,7 +21,7 @@
     "use strict"
 
     if (location.pathname == '/_data/login_home.aspx') {
-
+        $('select[name=Sel_Type]').selectByText('教师教辅人员');
     }
     else if (location.pathname == "/XSCJ/Tea_KCCJLR_add_temp.aspx") {
         window.moveTo(0, 0);
