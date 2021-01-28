@@ -1,1 +1,1 @@
-jsdeliver
+UserScript
