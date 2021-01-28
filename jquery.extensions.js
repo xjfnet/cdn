@@ -39,6 +39,13 @@ jQuery.extend({
             }, timerTimeout);
         });
     },
+    /**
+     * 在 head 标签的末尾添加 link:css 标签， jsdelivr cdn 可以跨域
+     * @param {string} href 
+     */
+    linkCss: function (href) {
+        $('head').append($('<link>').attr({ rel: 'stylesheet', type: 'text/css', href: href }));
+    },
 });
 jQuery.fn.extend({
     waitUntilExists: function (timeout, interval) {
