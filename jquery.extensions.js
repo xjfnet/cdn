@@ -46,6 +46,9 @@ jQuery.extend({
     linkCss: function (href) {
         $('head').append($('<link>').attr({ rel: 'stylesheet', type: 'text/css', href: href }));
     },
+    linkScript: function (src) {
+        $('head').append($('<script>').attr({ src: src }));
+    }
 });
 jQuery.fn.extend({
     waitUntilExists: function (timeout, interval) {

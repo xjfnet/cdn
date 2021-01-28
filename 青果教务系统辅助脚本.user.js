@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        青果教务系统辅助脚本
 // @namespace   Violentmonkey Scripts
-// @downloadUrl https://cdn.jsdelivr.net/gh/xjfnet/UserScript@latest/青果教务系统辅助脚本.user.js
+// @downloadUrl https://cdn.jsdelivr.net/gh/xjfnet/UserScript/青果教务系统辅助脚本.user.js
 // @match       http*://58.51.106.66:9301/*
 // @match       http*://172.18.254.16/*
 // @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/jquery.min.js
-// @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript@latest/jquery.extensions.js
+// @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/jquery.extensions.js
 // @require     https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/jquery.easyui.min.js
 // @require     https://gitee.com/QQ56188788/user-script/raw/master/assets/js.cookie.js
 // @require     https://gitee.com/QQ56188788/user-script/raw/master/assets/xlsx/xlsx.full.min.js
@@ -22,6 +22,8 @@
 
     $.linkCss('https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/themes/default/easyui.css');
     $.linkCss('https://cdn.jsdelivr.net/gh/xjfnet/UserScript/assets/easyui/themes/icon.css');
+
+    $('table:eq(3)')
 
     $('body').prepend(`
         <a id="btn" href="#" class="easyui-linkbutton" data-options="iconCls:'icon-search'">easyui</a>
