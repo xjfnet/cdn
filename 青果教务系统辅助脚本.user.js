@@ -16,8 +16,17 @@
 // @description 青果教务系统辅助功能：成绩模板导出，成绩导入，按姓名导入综合成功
 // ==/UserScript==
 
-(async function($) {
+(async function ($) {
     "use strict"
 
+    if (location.pathname == '/_data/login_home.aspx') {
 
+    }
+    else if (location.pathname == "/XSCJ/Tea_KCCJLR_add_temp.aspx") {
+        window.moveTo(0, 0);
+        window.resizeTo(screen.availWidth, screen.availHeight);
+        $('form').css({ margin: 0 });
+
+    } else if (location.pathname == "aaaaa") {
+    }
 })(jQuery)
