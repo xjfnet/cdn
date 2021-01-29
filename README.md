@@ -1,1 +1,1 @@
-UserScript
+cdn
