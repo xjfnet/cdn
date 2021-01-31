@@ -86,7 +86,7 @@
 }
 
 .panel-title {
-  background: url('images/blank.gif') no-repeat;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/blank.gif') no-repeat;
 }
 
 .panel-header-noborder {
@@ -171,31 +171,31 @@
 }
 
 .panel-loading {
-  background: url('images/loading.gif') no-repeat 10px 10px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/loading.gif') no-repeat 10px 10px;
 }
 
 .panel-tool-close {
-  background: url('images/panel_tools.png') no-repeat -16px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat -16px 0px;
 }
 
 .panel-tool-min {
-  background: url('images/panel_tools.png') no-repeat 0px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat 0px 0px;
 }
 
 .panel-tool-max {
-  background: url('images/panel_tools.png') no-repeat 0px -16px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat 0px -16px;
 }
 
 .panel-tool-restore {
-  background: url('images/panel_tools.png') no-repeat -16px -16px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat -16px -16px;
 }
 
 .panel-tool-collapse {
-  background: url('images/panel_tools.png') no-repeat -32px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat -32px 0;
 }
 
 .panel-tool-expand {
-  background: url('images/panel_tools.png') no-repeat -32px -16px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/panel_tools.png') no-repeat -32px -16px;
 }
 
 .panel-header,
@@ -416,11 +416,11 @@
 }
 
 .accordion-collapse {
-  background: url('images/accordion_arrows.png') no-repeat 0 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/accordion_arrows.png') no-repeat 0 0;
 }
 
 .accordion-expand {
-  background: url('images/accordion_arrows.png') no-repeat -16px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/accordion_arrows.png') no-repeat -16px 0;
 }
 
 .accordion {
@@ -1235,11 +1235,11 @@
 }
 
 .passwordbox-open {
-  background: url('images/passwordbox_open.png') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/passwordbox_open.png') no-repeat center center;
 }
 
 .passwordbox-close {
-  background: url('images/passwordbox_close.png') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/passwordbox_close.png') no-repeat center center;
 }
 
 .filebox .textbox-value {
@@ -1258,7 +1258,7 @@
   left: 0;
   top: 0;
   z-index: 10;
-  background: url('images/blank.gif') no-repeat;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/blank.gif') no-repeat;
 }
 
 .l-btn-disabled .filebox-label {
@@ -1286,7 +1286,7 @@
 }
 
 .combo-arrow {
-  background: url('images/combo_arrow.png') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/combo_arrow.png') no-repeat center center;
 }
 
 .combo-panel {
@@ -1381,7 +1381,7 @@
 }
 
 .tagbox-remove {
-  background: url('images/tagbox_icons.png') no-repeat -16px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tagbox_icons.png') no-repeat -16px center;
   position: absolute;
   display: block;
   width: 16px;
@@ -1545,19 +1545,19 @@
 }
 
 .layout-button-up {
-  background: url('images/layout_arrows.png') no-repeat -16px -16px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/layout_arrows.png') no-repeat -16px -16px;
 }
 
 .layout-button-down {
-  background: url('images/layout_arrows.png') no-repeat -16px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/layout_arrows.png') no-repeat -16px 0;
 }
 
 .layout-button-left {
-  background: url('images/layout_arrows.png') no-repeat 0 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/layout_arrows.png') no-repeat 0 0;
 }
 
 .layout-button-right {
-  background: url('images/layout_arrows.png') no-repeat 0 -16px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/layout_arrows.png') no-repeat 0 -16px;
 }
 
 .layout-split-proxy-h,
@@ -1963,15 +1963,15 @@
 }
 
 .tabs-scroller-left {
-  background: #E0ECFF url('images/tabs_icons.png') no-repeat 1px center;
+  background: #E0ECFF url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tabs_icons.png') no-repeat 1px center;
 }
 
 .tabs-scroller-right {
-  background: #E0ECFF url('images/tabs_icons.png') no-repeat -15px center;
+  background: #E0ECFF url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tabs_icons.png') no-repeat -15px center;
 }
 
 .tabs li a.tabs-close {
-  background: url('images/tabs_icons.png') no-repeat -34px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tabs_icons.png') no-repeat -34px center;
 }
 
 .tabs li .tabs-inner:hover {
@@ -2322,31 +2322,31 @@
 .datagrid-sort .datagrid-sort-icon {
   display: inline;
   padding: 0 13px 0 0;
-  background: url('images/datagrid_icons.png') no-repeat -64px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datagrid_icons.png') no-repeat -64px center;
 }
 
 .datagrid-sort-desc .datagrid-sort-icon {
   display: inline;
   padding: 0 13px 0 0;
-  background: url('images/datagrid_icons.png') no-repeat -16px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datagrid_icons.png') no-repeat -16px center;
 }
 
 .datagrid-sort-asc .datagrid-sort-icon {
   display: inline;
   padding: 0 13px 0 0;
-  background: url('images/datagrid_icons.png') no-repeat 0px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datagrid_icons.png') no-repeat 0px center;
 }
 
 .datagrid-row-collapse {
-  background: url('images/datagrid_icons.png') no-repeat -48px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datagrid_icons.png') no-repeat -48px center;
 }
 
 .datagrid-row-expand {
-  background: url('images/datagrid_icons.png') no-repeat -32px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datagrid_icons.png') no-repeat -32px center;
 }
 
 .datagrid-mask-msg {
-  background: #ffffff url('images/loading.gif') no-repeat scroll 5px center;
+  background: #ffffff url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/loading.gif') no-repeat scroll 5px center;
 }
 
 .datagrid-header,
@@ -2652,27 +2652,27 @@
 }
 
 .pagination-first {
-  background: url('images/pagination_icons.png') no-repeat 0 center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/pagination_icons.png') no-repeat 0 center;
 }
 
 .pagination-prev {
-  background: url('images/pagination_icons.png') no-repeat -16px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/pagination_icons.png') no-repeat -16px center;
 }
 
 .pagination-next {
-  background: url('images/pagination_icons.png') no-repeat -32px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/pagination_icons.png') no-repeat -32px center;
 }
 
 .pagination-last {
-  background: url('images/pagination_icons.png') no-repeat -48px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/pagination_icons.png') no-repeat -48px center;
 }
 
 .pagination-load {
-  background: url('images/pagination_icons.png') no-repeat -64px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/pagination_icons.png') no-repeat -64px center;
 }
 
 .pagination-loading {
-  background: url('images/loading.gif') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/loading.gif') no-repeat center center;
 }
 
 .pagination-page-list,
@@ -2747,22 +2747,22 @@
 
 .calendar-prevmonth {
   left: 30px;
-  background: url('images/calendar_arrows.png') no-repeat -16px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat -16px 0;
 }
 
 .calendar-nextmonth {
   right: 30px;
-  background: url('images/calendar_arrows.png') no-repeat -32px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat -32px 0;
 }
 
 .calendar-prevyear {
   left: 10px;
-  background: url('images/calendar_arrows.png') no-repeat 0px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat 0px 0;
 }
 
 .calendar-nextyear {
   right: 10px;
-  background: url('images/calendar_arrows.png') no-repeat -48px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat -48px 0;
 }
 
 .calendar-body {
@@ -2842,12 +2842,12 @@
 
 .calendar-menu-prev {
   margin-right: 10px;
-  background: url('images/calendar_arrows.png') no-repeat 5px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat 5px center;
 }
 
 .calendar-menu-next {
   margin-left: 10px;
-  background: url('images/calendar_arrows.png') no-repeat -44px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/calendar_arrows.png') no-repeat -44px center;
 }
 
 .calendar-menu-month {
@@ -2965,7 +2965,7 @@
 }
 
 .datebox .combo-arrow {
-  background-image: url('images/datebox_arrow.png');
+  background-image: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/datebox_arrow.png');
   background-position: center center;
 }
 
@@ -3091,21 +3091,21 @@
 }
 
 .spinner-arrow-up {
-  background: url('images/spinner_arrows.png') no-repeat 1px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/spinner_arrows.png') no-repeat 1px center;
   background-color: #E0ECFF;
 }
 
 .spinner-arrow-down {
-  background: url('images/spinner_arrows.png') no-repeat -15px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/spinner_arrows.png') no-repeat -15px center;
   background-color: #E0ECFF;
 }
 
 .spinner-button-up {
-  background: url('images/spinner_arrows.png') no-repeat -32px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/spinner_arrows.png') no-repeat -32px center;
 }
 
 .spinner-button-down {
-  background: url('images/spinner_arrows.png') no-repeat -48px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/spinner_arrows.png') no-repeat -48px center;
 }
 
 .progressbar {
@@ -3206,7 +3206,7 @@
 }
 
 .searchbox-button {
-  background: url('images/searchbox_button.png') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/searchbox_button.png') no-repeat center center;
 }
 
 .searchbox .l-btn-plain {
@@ -3324,7 +3324,7 @@
 }
 
 .slider-handle {
-  background: url('images/slider_handle.png') no-repeat;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/slider_handle.png') no-repeat;
 }
 
 .slider-inner {
@@ -3441,7 +3441,7 @@
 }
 
 .menu-rightarrow {
-  background: url('images/menu_arrows.png') no-repeat -32px center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/menu_arrows.png') no-repeat -32px center;
 }
 
 .menu-line {
@@ -3582,7 +3582,7 @@
 
 .m-btn-downarrow,
 .s-btn-downarrow {
-  background: url('images/menu_arrows.png') no-repeat 0 center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/menu_arrows.png') no-repeat 0 center;
 }
 
 .m-btn-plain-active,
@@ -3628,19 +3628,19 @@
 }
 
 .messager-error {
-  background: url('images/messager_icons.png') no-repeat scroll -64px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/messager_icons.png') no-repeat scroll -64px 0;
 }
 
 .messager-info {
-  background: url('images/messager_icons.png') no-repeat scroll 0 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/messager_icons.png') no-repeat scroll 0 0;
 }
 
 .messager-question {
-  background: url('images/messager_icons.png') no-repeat scroll -32px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/messager_icons.png') no-repeat scroll -32px 0;
 }
 
 .messager-warning {
-  background: url('images/messager_icons.png') no-repeat scroll -96px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/messager_icons.png') no-repeat scroll -96px 0;
 }
 
 .messager-progress {
@@ -3703,79 +3703,79 @@
 }
 
 .tree-expanded {
-  background: url('images/tree_icons.png') no-repeat -18px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -18px 0px;
 }
 
 .tree-expanded-hover {
-  background: url('images/tree_icons.png') no-repeat -50px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -50px 0px;
 }
 
 .tree-collapsed {
-  background: url('images/tree_icons.png') no-repeat 0px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat 0px 0px;
 }
 
 .tree-collapsed-hover {
-  background: url('images/tree_icons.png') no-repeat -32px 0px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -32px 0px;
 }
 
 .tree-lines .tree-expanded,
 .tree-lines .tree-root-first .tree-expanded {
-  background: url('images/tree_icons.png') no-repeat -144px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -144px 0;
 }
 
 .tree-lines .tree-collapsed,
 .tree-lines .tree-root-first .tree-collapsed {
-  background: url('images/tree_icons.png') no-repeat -128px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -128px 0;
 }
 
 .tree-lines .tree-node-last .tree-expanded,
 .tree-lines .tree-root-one .tree-expanded {
-  background: url('images/tree_icons.png') no-repeat -80px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -80px 0;
 }
 
 .tree-lines .tree-node-last .tree-collapsed,
 .tree-lines .tree-root-one .tree-collapsed {
-  background: url('images/tree_icons.png') no-repeat -64px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -64px 0;
 }
 
 .tree-line {
-  background: url('images/tree_icons.png') no-repeat -176px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -176px 0;
 }
 
 .tree-join {
-  background: url('images/tree_icons.png') no-repeat -192px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -192px 0;
 }
 
 .tree-joinbottom {
-  background: url('images/tree_icons.png') no-repeat -160px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -160px 0;
 }
 
 .tree-folder {
-  background: url('images/tree_icons.png') no-repeat -208px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -208px 0;
 }
 
 .tree-folder-open {
-  background: url('images/tree_icons.png') no-repeat -224px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -224px 0;
 }
 
 .tree-file {
-  background: url('images/tree_icons.png') no-repeat -240px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -240px 0;
 }
 
 .tree-loading {
-  background: url('images/loading.gif') no-repeat center center;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/loading.gif') no-repeat center center;
 }
 
 .tree-checkbox0 {
-  background: url('images/tree_icons.png') no-repeat -208px -18px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -208px -18px;
 }
 
 .tree-checkbox1 {
-  background: url('images/tree_icons.png') no-repeat -224px -18px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -224px -18px;
 }
 
 .tree-checkbox2 {
-  background: url('images/tree_icons.png') no-repeat -240px -18px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -240px -18px;
 }
 
 .tree-title {
@@ -3810,11 +3810,11 @@
 }
 
 .tree-dnd-yes {
-  background: url('images/tree_icons.png') no-repeat -256px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -256px 0;
 }
 
 .tree-dnd-no {
-  background: url('images/tree_icons.png') no-repeat -256px -18px;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/tree_icons.png') no-repeat -256px -18px;
 }
 
 .tree-node-top {
@@ -4225,14 +4225,14 @@
   position: absolute;
   top: 50%;
   margin-top: -8px;
-  background: url('images/accordion_arrows.png') no-repeat 0 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/accordion_arrows.png') no-repeat 0 0;
   width: 16px;
   height: 16px;
   right: 5px;
 }
 
 .sidemenu .tree-node-nonleaf-collapsed::after {
-  background: url('images/accordion_arrows.png') no-repeat -16px 0;
+  background: url('https://cdn.jsdelivr.net/gh/xjfnet/cdn/easyui/themes/default/images/accordion_arrows.png') no-repeat -16px 0;
 }
 
 .sidemenu-collapsed .panel-icon {
